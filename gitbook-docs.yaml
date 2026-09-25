@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Cavaridge Go
+  structure:
+    - type: space
+      key: space-cavaridge-go
+      title: Cavaridge Go
+      path: cavaridge-go
+      default: true
+      content:
+        directory: ./
+        language: en
